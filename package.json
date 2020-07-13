@@ -13,6 +13,9 @@
     "margau https://github.com/margau",
     "Justin J. Novack https://github.com/jnovack"
   ],
+  "browser": {
+    "dgram": "react-native-udp"
+  },
   "keywords": [
     "Art-Net",
     "artnet",
